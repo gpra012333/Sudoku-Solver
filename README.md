@@ -13,7 +13,6 @@ This is a web-based Sudoku solver application. It generates a Sudoku puzzle and 
 [![Sudoku Solver](sudoku_solver_demo.gif)](https://github.com/gpra012333/Sudoku-Solver/assets/142736928/90cc686a-46d1-47ed-911a-1580a3b72a14)
 
 ## Features
-- Generate a Sudoku puzzle with varying difficulty levels.
 - Solve the Sudoku puzzle with an animated effect.
 - Responsive design with a clean and intuitive user interface.
 
