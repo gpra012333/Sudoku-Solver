@@ -19,7 +19,7 @@ This is a web-based Sudoku solver application. It generates a Sudoku puzzle and 
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/sudoku-solver.git
+    git clone https://github.com/gpra012333/sudoku-solver.git
     ```
 2. Open the project directory:
     ```bash
