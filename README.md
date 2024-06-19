@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Solver (Along with Demo Video)
 
 This is a web-based Sudoku solver application. It generates a Sudoku puzzle and provides the solution with an animation effect. 
 
